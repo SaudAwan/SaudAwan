@@ -3,6 +3,7 @@
 <ins>**AI/ML Engineer | Deep Learning & Automation Specialist | Python Expert | Full Stack Developer**</ins>
 
 ## 🚀 Languages & Technologies I Work With
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 🧠 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
