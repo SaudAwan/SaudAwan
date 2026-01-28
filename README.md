@@ -1,6 +1,6 @@
 <h1>Hello there 👋</h1>
 
-## AI/ML Engineer | Deep Learning & Automation Specialist | Python Expert | Full Stack Developer
+## AI/ML Engineer | 10+ Years | AI & Automation Specialist | Python Expert | Full Stack Developer
 
 ## 🚀 Languages & Technologies I Work With
 
