@@ -2,108 +2,72 @@
 
 <h2>🚀 Languages & Technologies I Work With</h2>
 
-<div class="tech-section">
-
-  <h3>🧠 AI / Machine Learning</h3>
-  <div class="tech-group">
-    <span class="tech ai">Python</span>
-    <span class="tech ai">PyTorch</span>
-    <span class="tech ai">TensorFlow</span>
-    <span class="tech ai">Scikit-learn</span>
-    <span class="tech ai">Pandas</span>
-  </div>
-
-  <h3>🌐 Frontend</h3>
-  <div class="tech-group">
-    <span class="tech frontend">JavaScript</span>
-    <span class="tech frontend">TypeScript</span>
-    <span class="tech frontend">React</span>
-    <span class="tech frontend">Next.js</span>
-    <span class="tech frontend">Vue.js</span>
-    <span class="tech frontend">Nuxt.js</span>
-    <span class="tech frontend">Tailwind CSS</span>
-    <span class="tech frontend">Bootstrap</span>
-  </div>
-
-  <h3>⚙️ Backend & APIs</h3>
-  <div class="tech-group">
-    <span class="tech backend">Node.js</span>
-    <span class="tech backend">Express</span>
-    <span class="tech backend">NestJS</span>
-    <span class="tech backend">Django</span>
-    <span class="tech backend">Ruby on Rails</span>
-    <span class="tech backend">GraphQL</span>
-  </div>
-
-  <h3>🗄️ Databases</h3>
-  <div class="tech-group">
-    <span class="tech db">PostgreSQL</span>
-    <span class="tech db">MySQL</span>
-    <span class="tech db">MongoDB</span>
-    <span class="tech db">Redis</span>
-    <span class="tech db">SQLite</span>
-    <span class="tech db">SQL Server</span>
-    <span class="tech db">Elasticsearch</span>
-  </div>
-
-  <h3>☁️ Cloud & DevOps</h3>
-  <div class="tech-group">
-    <span class="tech cloud">AWS</span>
-    <span class="tech cloud">Google Cloud</span>
-    <span class="tech cloud">Azure</span>
-    <span class="tech cloud">Docker</span>
-    <span class="tech cloud">Kubernetes</span>
-    <span class="tech cloud">Nginx</span>
-    <span class="tech cloud">Jenkins</span>
-  </div>
-
-  <h3>📱 Mobile & Cross-Platform</h3>
-  <div class="tech-group">
-    <span class="tech mobile">React Native</span>
-    <span class="tech mobile">Flutter</span>
-    <span class="tech mobile">Android</span>
-    <span class="tech mobile">Kotlin</span>
-    <span class="tech mobile">Dart</span>
-  </div>
-
-  <h3>🛠️ Tooling</h3>
-  <div class="tech-group">
-    <span class="tech tools">Git</span>
-    <span class="tech tools">Linux</span>
-    <span class="tech tools">Figma</span>
-    <span class="tech tools">Postman</span>
-  </div>
-
+<h3>🧠 AI / Machine Learning</h3>
+<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;">
+  <span style="background:#7f00ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Python</span>
+  <span style="background:#7f00ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">PyTorch</span>
+  <span style="background:#7f00ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">TensorFlow</span>
+  <span style="background:#7f00ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Scikit-learn</span>
+  <span style="background:#7f00ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Pandas</span>
 </div>
 
-<style>
-.tech-section {
-  margin-top: 1rem;
-}
+<h3>🌐 Frontend</h3>
+<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;">
+  <span style="background:#0072ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">JavaScript</span>
+  <span style="background:#0072ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">TypeScript</span>
+  <span style="background:#0072ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">React</span>
+  <span style="background:#0072ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Next.js</span>
+  <span style="background:#0072ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Vue.js</span>
+  <span style="background:#0072ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Nuxt.js</span>
+  <span style="background:#0072ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Tailwind CSS</span>
+  <span style="background:#0072ff;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Bootstrap</span>
+</div>
 
-.tech-group {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 1.2rem;
-}
+<h3>⚙️ Backend & APIs</h3>
+<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;">
+  <span style="background:#11998e;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Node.js</span>
+  <span style="background:#11998e;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Express</span>
+  <span style="background:#11998e;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">NestJS</span>
+  <span style="background:#11998e;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Django</span>
+  <span style="background:#11998e;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Ruby on Rails</span>
+  <span style="background:#11998e;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">GraphQL</span>
+</div>
 
-.tech {
-  padding: 6px 12px;
-  border-radius: 999px;
-  font-size: 0.85rem;
-  font-weight: 500;
-  color: #fff;
-  cursor: default;
-  white-space: nowrap;
-}
+<h3>🗄️ Databases</h3>
+<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;">
+  <span style="background:#ffd200;color:#222;padding:6px 12px;border-radius:999px;font-size:13px;">PostgreSQL</span>
+  <span style="background:#ffd200;color:#222;padding:6px 12px;border-radius:999px;font-size:13px;">MySQL</span>
+  <span style="background:#ffd200;color:#222;padding:6px 12px;border-radius:999px;font-size:13px;">MongoDB</span>
+  <span style="background:#ffd200;color:#222;padding:6px 12px;border-radius:999px;font-size:13px;">Redis</span>
+  <span style="background:#ffd200;color:#222;padding:6px 12px;border-radius:999px;font-size:13px;">SQLite</span>
+  <span style="background:#ffd200;color:#222;padding:6px 12px;border-radius:999px;font-size:13px;">SQL Server</span>
+  <span style="background:#ffd200;color:#222;padding:6px 12px;border-radius:999px;font-size:13px;">Elasticsearch</span>
+</div>
 
-/* Color Themes */
-.ai { background: linear-gradient(135deg, #7f00ff, #e100ff); }
-.frontend { background: linear-gradient(135deg, #00c6ff, #0072ff); }
-.backend { background: linear-gradient(135deg, #11998e, #38ef7d); }
-.db { background: linear-gradient(135deg, #f7971e, #ffd200); color:#222; }
-.cloud { background: linear-gradient(135deg, #f953c6, #b91d73); }
-.mobile { background: linear-gradient(135deg, #ff512f, #dd2476); }
-.tools { background: linear-gradient(135deg, #232526, #414345); }
-</style>
+<h3>☁️ Cloud & DevOps</h3>
+<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;">
+  <span style="background:#b91d73;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">AWS</span>
+  <span style="background:#b91d73;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Google Cloud</span>
+  <span style="background:#b91d73;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Azure</span>
+  <span style="background:#b91d73;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Docker</span>
+  <span style="background:#b91d73;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Kubernetes</span>
+  <span style="background:#b91d73;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Nginx</span>
+  <span style="background:#b91d73;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Jenkins</span>
+</div>
+
+<h3>📱 Mobile & Cross-Platform</h3>
+<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;">
+  <span style="background:#dd2476;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">React Native</span>
+  <span style="background:#dd2476;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Flutter</span>
+  <span style="background:#dd2476;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Android</span>
+  <span style="background:#dd2476;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Kotlin</span>
+  <span style="background:#dd2476;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Dart</span>
+</div>
+
+<h3>🛠️ Tooling</h3>
+<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px;">
+  <span style="background:#414345;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Git</span>
+  <span style="background:#414345;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Linux</span>
+  <span style="background:#414345;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Figma</span>
+  <span style="background:#414345;color:#fff;padding:6px 12px;border-radius:999px;font-size:13px;">Postman</span>
+</div>
