@@ -1,6 +1,6 @@
 <h1>Hello there 👋</h1>
 
-**AI/ML Engineer | Deep Learning & Automation Specialist | Python Expert | Full Stack Developer**
+<ins>**AI/ML Engineer | Deep Learning & Automation Specialist | Python Expert | Full Stack Developer**</ins>
 
 ## 🚀 Languages & Technologies I Work With
 
