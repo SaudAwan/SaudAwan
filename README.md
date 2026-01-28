@@ -1,4 +1,6 @@
-<h1>Hi 👋 I'm Saud — AI / ML Engineer with 10+ years of experience building automation systems and production-grade AI platforms.</h1>
+<h1>Hello there 👋</h1>
+
+<h3>AI/ML Engineer | Deep Learning & NLP Specialist | Python Expert | Full Stack Developer</h3>
 
 ## 🚀 Languages & Technologies I Work With
 
