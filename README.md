@@ -1,9 +1,8 @@
 <h1>Hello there 👋</h1>
 
-<ins>**AI/ML Engineer | Deep Learning & Automation Specialist | Python Expert | Full Stack Developer**</ins>
+## AI/ML Engineer | Deep Learning & Automation Specialist | Python Expert | Full Stack Developer
 
-🚀 Languages & Technologies I Work With
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
+## 🚀 Languages & Technologies I Work With
 
 ### 🧠 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
