@@ -2,7 +2,7 @@
 
 <ins>**AI/ML Engineer | Deep Learning & Automation Specialist | Python Expert | Full Stack Developer**</ins>
 
-## 🚀 Languages & Technologies I Work With
+🚀 Languages & Technologies I Work With
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 🧠 AI / Machine Learning
