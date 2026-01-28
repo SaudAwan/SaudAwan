@@ -1,6 +1,7 @@
 ### <h1>Hello there 👋</h1>
 
 ## AI/ML Engineer | 10+ Years | AI & Automation Specialist | Python Expert | Full Stack Developer
+AI / automation engineer turning messy processes into reliable, scalable systems. I design and ship production‑grade AI agents, API integrations, and end‑to‑end automations that reduce manual work and drive measurable business impact.
 
 ## 🛠️ Languages & Technologies I Work With
 
